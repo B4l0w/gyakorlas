@@ -78,10 +78,5 @@
 }
 
 #card-holder {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    align-content: space-around;
-    flex-direction: row;
-    flex-wrap: wrap;
+    display: inline-flex;
 }
